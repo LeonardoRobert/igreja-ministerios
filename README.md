@@ -24,9 +24,9 @@ O sistema contribui para o **ODS 9 (Indústria, Inovação e Infraestrutura)** p
 📦 igreja-ministerios
 - 📜 .gitignore → configuração para ignorar arquivos
 - 📜 README.md → este arquivo
-- 📂 db → scripts SQL
 - 📂 docs → diagramas e documentação
 - 📂 src → código-fonte (Node.js + Express)
+- 📂 db → scripts SQL
 
 ## 👨‍💻 Tecnologias previstas
 - Node.js  
