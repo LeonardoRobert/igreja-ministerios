@@ -22,12 +22,11 @@ O sistema contribui para o **ODS 9 (Indústria, Inovação e Infraestrutura)** p
 
 ## 🗂 Estrutura inicial do projeto
 📦 igreja-ministerios
-┣ 📂 docs → diagramas e documentação
-┣ 📂 src → código-fonte (Node.js + Express)
-┣ 📂 db → scripts SQL
-┣ 📜 README.md → este arquivo
-┗ 📜 .gitignore → configuração para ignorar arquivos
-
+- 📜 .gitignore → configuração para ignorar arquivos
+- 📜 README.md → este arquivo
+- 📂 docs → diagramas e documentação
+- 📂 src → código-fonte (Node.js + Express)
+- 📂 db → scripts SQL
 
 ## 👨‍💻 Tecnologias previstas
 - Node.js  
